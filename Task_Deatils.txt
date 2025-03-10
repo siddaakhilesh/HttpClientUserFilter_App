@@ -1,0 +1,6 @@
+Task details
+
+create a console application, which will call this https://randomuser.me/api/?results=100&seed=59a7d962d3167864 using httpclient
+and find the list of male users aged between 45 and 60
+and find the list of female users above 20
+and print the first name, last name, date of birth, email and age
